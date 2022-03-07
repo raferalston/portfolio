@@ -1,6 +1,7 @@
 # 💬Here you can find all information about me and some of my projects.
 
 ## 😎Short bio about me
+Hi, my name is Mike and i am 35 years old. I am the founder and technical director of a programming school for kids - [kidkod.ru](https://kidkod.ru), as well a software developer who used python (django at most) for backend, and html/css/js for frontend. My hobbies is pomodoro learning and running. 
 
 ### ❤️Some of my projects
 #### Moyklass crm-tg bot, for helping teachers find their schedule
