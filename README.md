@@ -14,6 +14,7 @@ Right now i want to find a regular programmer job, because my current project is
 - [x] Git
 - [x] Linux (at beginner level)
 - [x] Figma, Photoshop 
+- [x] Django ORM (basic native SQL)
 - [ ] Conception of CI/CD
 - [ ] Can learn any FE Framework like a Vue if needed
 - [ ] Redis (used with celery for scheduled operations) at beginner level    
