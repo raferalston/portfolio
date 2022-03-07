@@ -40,6 +40,8 @@ This projects created from scratch by me. This means i used figma for template d
 > - python, django, redis, celery
 > - in this project i try to use SPA (Single Page Application) for generating content
 
-Contact information:
-email: school@kidkod.ru
-tg: @phukettabletop
+> Contact information:
+> 
+> email: school@kidkod.ru
+> 
+> tg: [@phukettabletop](https://t.me/phukettabletop)
