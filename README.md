@@ -32,7 +32,7 @@ Right now i want to find a regular programmer job, because my current project is
 >  - html, css, js, scss
 >  - php (mailer, requests)
 
-This projects created from scratch by me. This means i used figma for template design. *important notes: for phone mask i used open source project created by [link](https://github.com/alexey-goloburdin/phoneinput)
+This projects created from scratch by me. This means i used figma for template design.
 
 #### Mathematical Trade for exchanging boardgames
 > Full information can be found here [link](https://github.com/raferalston/mathtrade_pub)
