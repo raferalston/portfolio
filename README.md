@@ -21,6 +21,13 @@ Right now i want to find a regular programmer job, because my current project is
 - [ ] PHP (used for mailer and basic server) 
 
 ### ❤️Some of my projects
+
+#### Django-DRF example
+
+> Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).
+> ##### Used technologies (or services)
+> - python, django, django-drf
+
 #### Moyklass crm-tg bot, for helping teachers find their schedule
 > Full information can be found here [link](https://github.com/raferalston/crm-tg-heroku-bot).
 > ##### Used technologies (or services)
@@ -41,7 +48,7 @@ This projects created from scratch by me. This means i used figma for template d
 > - python, django, redis, celery
 > - in this project i try to use SPA (Single Page Application) for generating content
 
-> Contact information:
+##### Contact information:
 > 
 > email: school@kidkod.ru
 > 
