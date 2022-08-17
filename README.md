@@ -22,6 +22,7 @@ Right now i want to find a regular programmer job, because my current project is
 
 ### ❤️Some of my projects
 
+# Python, django Examples
 #### Django-DRF example
 
 > Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).
@@ -33,14 +34,26 @@ Right now i want to find a regular programmer job, because my current project is
 > ##### Used technologies (or services)
 > - python, heroku
 
+# Javascript, HTML, CSS Examples
 #### kidkod website (front-end, back-end)
 > [link](https://kidkod.ru)
 > ##### Used technologies (or services)
 >  - html, css, js, scss
 >  - php (mailer, requests)
-
 This projects created from scratch by me. This means i used figma for template design.
 
+#### Pets shelter website, no extra libraries (rs-school task) 
+> [link](...)
+> ##### Used technologies (or services)
+>  - html, css, js
+
+#### Virtual keyboard, vanilla js (rs-school task)
+> [link](https://raferalston.github.io/virtual-keyboard/keyboard)
+
+#### CV-task, just for fun (rs-school task)
+> [link](https://raferalston.github.io/rsschool-cv/)
+
+# Fullstack experience (Django, Redis, Celery, HTML/CSS/JS)
 #### Mathematical Trade for exchanging boardgames
 > Full information can be found here [link](https://github.com/raferalston/mathtrade_pub)
 > ##### Used technologies
