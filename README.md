@@ -43,7 +43,7 @@ Right now i want to find a regular programmer job, because my current project is
 This projects created from scratch by me. This means i used figma for template design.
 
 #### Pets shelter website, no extra libraries (rs-school task) 
-> [link](...)
+> [link](https://rolling-scopes-school.github.io/raferalston-JSFE2022Q1/shelter/pages/main/)
 > ##### Used technologies (or services)
 >  - html, css, js
 
