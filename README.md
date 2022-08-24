@@ -22,9 +22,9 @@ Right now i want to find a regular programmer job, because my current project is
 
 ### ❤️Some of my projects
 
-# Python, django Examples
+# Python, Django Examples
 
-#### Django-DRF tradepoints - *Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).*
+#### Django-DRF tradepoints - *Full information can be found [here](https://github.com/raferalston/rest-api-task-tradepoints).*
 
 The purpose of this project was to create filters and process various requests using API
 
@@ -34,14 +34,15 @@ The purpose of this project was to create filters and process various requests u
 
 ---
 
-#### Django-DRF mortgage calculator
-
-**Full information can be found here [link](https://github.com/raferalston/mortgage-rest-api-example).**
-
-> ##### Used technologies (or services)
-> python, django, django-drf
+#### Django-DRF mortgage calculator - *Full information can be found [here](https://github.com/raferalston/mortgage-rest-api-example).*
 
 This project is for calculating mortgage payments and filtering banks by criteria
+
+> *Used technologies (or services)*
+> 
+> python, django, django-drf
+
+---
 
 #### Moyklass crm-tg bot, for helping teachers find their schedule
 **Full information can be found here [link](https://github.com/raferalston/crm-tg-heroku-bot).**
