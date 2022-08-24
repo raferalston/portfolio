@@ -28,13 +28,13 @@ Right now i want to find a regular programmer job, because my current project is
 > Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).
 > ##### Used technologies (or services)
 > - python, django, django-drf
-> The purpose of this project was to create filters and process various requests using API 
+> *The purpose of this project was to create filters and process various requests using API*
 ---
 #### Django-DRF mortgage calculator
 > Full information can be found here [link](https://github.com/raferalston/mortgage-rest-api-example).
 > ##### Used technologies (or services)
 > - python, django, django-drf
-> This project is for calculating mortgage payments and filtering banks by criteria
+> *This project is for calculating mortgage payments and filtering banks by criteria*
 ---
 #### Moyklass crm-tg bot, for helping teachers find their schedule
 > Full information can be found here [link](https://github.com/raferalston/crm-tg-heroku-bot).
@@ -70,6 +70,6 @@ This projects created from scratch by me. This means i used figma for template d
 ---
 ##### Contact information:
 > 
-> email: ==school@kidkod.ru==
+> **email: school@kidkod.ru**
 > 
-> tg: ==[@phukettabletop](https://t.me/phukettabletop)==
+> **tg: [@phukettabletop](https://t.me/phukettabletop)**
