@@ -5,7 +5,7 @@ Hi, my name is Mike and i am 35 years old. I am the founder and technical direct
 
 Right now i want to find a regular programmer job, because my current project is outsourced and worked well without me.
 
-### Technologies i know
+### Technologies i use
 - [x] Python 3.x
 - [x] Django 2.x+
 - [x] HTML/CSS/Sass
