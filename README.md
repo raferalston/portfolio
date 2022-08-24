@@ -25,64 +25,60 @@ Right now i want to find a regular programmer job, because my current project is
 # Python, django Examples
 
 #### Django-DRF tradepoints
-> Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).
+
+**Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).**
+
 > ##### Used technologies (or services)
-> - python, django, django-drf
+> python, django, django-drf
 
 The purpose of this project was to create filters and process various requests using API
 
----
-
 #### Django-DRF mortgage calculator
-> Full information can be found here [link](https://github.com/raferalston/mortgage-rest-api-example).
+
+**Full information can be found here [link](https://github.com/raferalston/mortgage-rest-api-example).**
+
 > ##### Used technologies (or services)
-> - python, django, django-drf
+> python, django, django-drf
 
 This project is for calculating mortgage payments and filtering banks by criteria
 
----
-
 #### Moyklass crm-tg bot, for helping teachers find their schedule
-> Full information can be found here [link](https://github.com/raferalston/crm-tg-heroku-bot).
+**Full information can be found here [link](https://github.com/raferalston/crm-tg-heroku-bot).**
 > ##### Used technologies (or services)
-> - python, heroku
-
----
+> python, heroku
 
 # Javascript, HTML, CSS Examples
 #### kidkod website (front-end, back-end)
-> [link](https://kidkod.ru)
+
+**[link](https://kidkod.ru)**
+
 > ##### Used technologies (or services)
 >  - html, css, js, scss
 >  - php (mailer, requests)
+
 This projects created from scratch by me. This means i used figma for template design.
 
----
-
 #### Pets shelter website, no extra libraries (rs-school task) 
-> [link](https://rolling-scopes-school.github.io/raferalston-JSFE2022Q1/shelter/pages/main/)
+**[link](https://rolling-scopes-school.github.io/raferalston-JSFE2022Q1/shelter/pages/main/)**
 > ##### Used technologies (or services)
 >  - html, css, js
->  
----
 
 #### Virtual keyboard, vanilla js (rs-school task)
-> [link](https://raferalston.github.io/virtual-keyboard/keyboard)
+
+**[link](https://raferalston.github.io/virtual-keyboard/keyboard)**
 
 #### CV-task, just for fun (rs-school task)
-> [link](https://raferalston.github.io/rsschool-cv/)
-> 
----
+
+**[link](https://raferalston.github.io/rsschool-cv/)**
 
 # Fullstack experience (Django, Redis, Celery, HTML/CSS/JS)
 #### Mathematical Trade for exchanging boardgames
-> Full information can be found here [link](https://github.com/raferalston/mathtrade_pub)
-> ##### Used technologies
-> - html, css, js, bootstrap
-> - python, django, redis, celery
-> - in this project i try to use SPA (Single Page Application) for generating content
+**Full information can be found here [link](https://github.com/raferalston/mathtrade_pub)**
 
----
+> ##### Used technologies
+> html, css, js, bootstrap, python, django, redis, celery
+
+In this project i try to use SPA (Single Page Application) for generating content
 
 ##### Contact information:
 > 
