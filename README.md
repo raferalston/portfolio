@@ -24,13 +24,12 @@ Right now i want to find a regular programmer job, because my current project is
 
 # Python, django Examples
 
-#### Django-DRF tradepoints
-
-**Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).**
+#### Django-DRF tradepoints - *Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).*
 
 The purpose of this project was to create filters and process various requests using API
 
 > *Used technologies (or services)*
+> 
 > python, django, django-drf
 
 ---
