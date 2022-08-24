@@ -24,15 +24,17 @@ Right now i want to find a regular programmer job, because my current project is
 
 # Python, django Examples
 
-#### Django-DRF example 1
+#### Django-DRF tradepoints
 > Full information can be found here [link](https://github.com/raferalston/rest-api-task-tradepoints).
 > ##### Used technologies (or services)
 > - python, django, django-drf
+The purpose of this project was to create filters and process various requests using API 
 
-#### Django-DRF example 2
+#### Django-DRF mortgage calculator
 > Full information can be found here [link](https://github.com/raferalston/mortgage-rest-api-example).
 > ##### Used technologies (or services)
 > - python, django, django-drf
+This project is for calculating mortgage payments and filtering banks by criteria
 
 #### Moyklass crm-tg bot, for helping teachers find their schedule
 > Full information can be found here [link](https://github.com/raferalston/crm-tg-heroku-bot).
