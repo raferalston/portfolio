@@ -74,8 +74,7 @@ This projects created from scratch by me. This means i used figma for template d
 ---
 
 #### 📑Virtual keyboard, vanilla js (rs-school task) - *[link](https://raferalston.github.io/virtual-keyboard/keyboard)*
-
-#### CV-task, just for fun (rs-school task) - *[link](https://raferalston.github.io/rsschool-cv/)*
+#### 📑 CV-task, just for fun (rs-school task) - *[link](https://raferalston.github.io/rsschool-cv/)*
 
 Made just for fun.
 
