@@ -40,7 +40,7 @@ This project is for calculating mortgage payments and filtering banks by criteri
 
 > *Used technologies (or services)*
 > 
-> python, django, django-drf
+> python, django, django-drf, docker
 
 ---
 
