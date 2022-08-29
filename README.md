@@ -44,6 +44,16 @@ This project is for calculating mortgage payments and filtering banks by criteri
 
 ---
 
+#### 📑Django-DRF message-application - *Full information can be found [here](https://github.com/raferalston/message-app).*
+
+Schedule messaging application.
+
+> *Used technologies (or services)*
+> 
+> python, django, django-drf, requests, celery, redis, docker
+
+---
+
 #### 📑Moyklass crm-tg bot, for helping teachers find their schedule - *Full information can be found [here](https://github.com/raferalston/crm-tg-heroku-bot).*
 
 > *Used technologies (or services)*
