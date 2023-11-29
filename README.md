@@ -15,10 +15,10 @@ Right now i want to find a regular programmer job, because my current project is
 - [x] Linux (at beginner level)
 - [x] Figma, Photoshop 
 - [x] Django ORM (basic native SQL)
-- [ ] Conception of CI/CD
-- [ ] Can learn any FE Framework like a Vue if needed
-- [ ] Redis (used with celery for scheduled operations) at beginner level    
-- [ ] PHP (used for mailer and basic server) 
+- [x] Conception of CI/CD
+- [x] Can learn any FE Framework like a Vue if needed
+- [x] Redis (used with celery for scheduled operations)   
+- [x] PHP (used for mailer and basic server) 
 
 ### ❤️Some of my projects
 
