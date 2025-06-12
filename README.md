@@ -100,6 +100,6 @@ In this project i try to use SPA (Single Page Application) for generating conten
 
 ##### Contact information:
 > 
-> **email: school@kidkod.ru**
+> **email: like2pwnyou@yandex.ru**
 > 
 > **tg: [@phukettabletop](https://t.me/phukettabletop)**
