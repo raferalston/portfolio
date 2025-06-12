@@ -24,6 +24,16 @@ Right now i want to find a regular programmer job, because my current project is
 
 # Python, Django Examples
 
+#### 📑kidkod website (front-end, back-end) - *[link](https://kidkod.ru)*
+
+This projects created from scratch by me. This means i used figma for template design.
+
+> *Used technologies (or services)*
+> 
+>  django, wagtail for cms, celery/redis, moyklass-api, html/css/js
+
+---
+
 #### 📑Django-DRF tradepoints - *Full information can be found [here](https://github.com/raferalston/rest-api-task-tradepoints).*
 
 The purpose of this project was to create filters and process various requests using API
@@ -59,17 +69,6 @@ Schedule messaging application.
 > *Used technologies (or services)*
 > 
 > python, heroku
-
----
-
-# Javascript, HTML, CSS Examples
-#### 📑kidkod website (front-end, back-end) - *[link](https://kidkod.ru)*
-
-This projects created from scratch by me. This means i used figma for template design.
-
-> *Used technologies (or services)*
-> 
->  html, css, js, scss, php (mailer, requests)
 
 ---
 
