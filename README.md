@@ -26,8 +26,6 @@ Right now i want to find a regular programmer job, because my current project is
 
 #### 📑kidkod website (front-end, back-end) - *[link](https://kidkod.ru)*
 
-This projects created from scratch by me. This means i used figma for template design.
-
 > *Used technologies (or services)*
 > 
 >  django, wagtail for cms, celery/redis, moyklass-api, html/css/js
