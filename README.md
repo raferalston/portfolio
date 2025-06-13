@@ -1,10 +1,5 @@
 # 💬Here you can find all information about me and some of my projects.
 
-## 😎Short bio about me
-Hi, my name is Mikhail andi am the founder and technical director of a programming school for kids - [kidkod.ru](https://kidkod.ru), as well a software developer who used python (django at most) for backend, and html/css/js for frontend. My hobbies is pomodoro learning and running. 
-
-Right now i want to find a regular programmer job, because my current project is outsourced and worked well without me.
-
 ### Technologies i use
 - [x] Python 3.x
 - [x] Django 2.x+
