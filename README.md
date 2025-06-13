@@ -1,6 +1,4 @@
-# 💬Here you can find all information about me and some of my projects.
-
-### Technologies i use
+### Technologies
 - [x] Python 3.x
 - [x] Django 2.x+
 - [x] HTML/CSS/Sass
