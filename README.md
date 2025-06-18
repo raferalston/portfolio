@@ -10,7 +10,7 @@
 
 ---
 
-### 📌 [Тестовое задание — CSV read and aggregate data]([https://github.com/raferalston/rest-api-task-tradepoints](https://github.com/raferalston/csv_reader))
+### 📌 [Тестовое задание — CSV read and aggregate data](https://github.com/raferalston/csv_reader)
 **Роль:** Python скрипт обработки csv файла и аггрегации данных внутри 
 **Стек:** Python (без pandas)
 
