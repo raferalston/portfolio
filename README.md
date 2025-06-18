@@ -10,6 +10,14 @@
 
 ---
 
+### 📌 [Тестовое задание — CSV read and aggregate data]([https://github.com/raferalston/rest-api-task-tradepoints](https://github.com/raferalston/csv_reader))
+**Роль:** Python скрипт обработки csv файла и аггрегации данных внутри 
+**Стек:** Python (без pandas)
+
+Аггрегация данных из табличных данных с возможность добавления новых методов.
+
+---
+
 ### 📌 [Тестовое задание — REST API](https://github.com/raferalston/rest-api-task-tradepoints)
 **Роль:** Backend-разработчик  
 **Стек:** Django, Django REST Framework
