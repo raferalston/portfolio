@@ -11,6 +11,17 @@
 
 ---
 
+### 📌 [Complaint Workflow System — система автоматизации обработки жалоб](https://github.com/raferalston/complaint_service)
+Роль: Backend-разработчик
+Стек: FastAPI, SQLite (aiosqlite), httpx, n8n, Telegram Bot API, Google Sheets API
+
+Разработал backend-сервис для обработки пользовательских жалоб с автоматической категоризацией и анализом тональности через внешние API.
+Создал mock-сервисы для локального тестирования без реальных API.
+Настроил автоматизацию процессов в n8n: сбор жалоб, уведомления в Telegram, запись в Google Sheets и автоматическое обновление статуса жалобы.
+Проект включает готовые скрипты для локального тестирования и демонстрации функциональности.
+
+---
+
 ### 📌 [Тестовое задание — image moderation](https://github.com/raferalston/image_moderation_api)
 **Роль:** Использование FastAPI + Sightengine для проверки изображений  
 **Стек:** Python, FastAPI
