@@ -11,6 +11,14 @@
 
 ---
 
+### 📌 [Task Control API - Асинхронное управление задачами](https://github.com/raferalston/tasks-app)
+Роль: Backend-разработчик
+Стек: Django, DRF, Celery, Redis, PostgreSQL, Docker, JWT, drf-spectacular
+
+REST API для управления асинхронными задачами с использованием Django REST Framework, Celery и Redis. Пользователи могут создавать задачи (сложение чисел и обратный отсчёт), отслеживать статус выполнения и фильтровать задачи по состоянию.
+
+---
+
 ### 📌 [Complaint Workflow System — система автоматизации обработки жалоб](https://github.com/raferalston/complaint_service)
 Роль: Backend-разработчик
 Стек: FastAPI, SQLite (aiosqlite), httpx, n8n, Telegram Bot API, Google Sheets API
