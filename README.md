@@ -11,6 +11,16 @@
 
 ---
 
+### 📌 [Банковские платежи](https://github.com/raferalston/bank-payments)
+
+**Роль:** Backend-разработчик  
+
+**Стек:** FastAPI, Tortoise ORM, PostgreSQL, Redis, Celery, Flower, Aerich, httpx, Pydantic, Docker
+
+REST API для работы с платежами по заказам. Поддержка наличных и эквайринга: создание платежей (депозит), возвраты, синхронизация статусов с банковским API. Заказы со статусами оплаты (не оплачен / частично / оплачен), валидация сумм и типов платежей. Фоновое подтверждение эквайринга через Celery, миграции Aerich, тесты на pytest.
+
+---
+
 ### 📌 [Task Control API - Асинхронное управление задачами](https://github.com/raferalston/tasks-app)
 Роль: Backend-разработчик
 Стек: Django, DRF, Celery, Redis, PostgreSQL, Docker, JWT, drf-spectacular
