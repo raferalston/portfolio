@@ -11,6 +11,14 @@
 
 ---
 
+### 📌 [keitaro-обертка](https://github.com/raferalston/keitaro-wrapper)
+
+**Роль:** Backend-разработчик  
+**Стек:** Django, Vue, Docker
+Сервис для добавления рекламных кампаний для Facebook
+
+--- 
+
 ### 📌 [Банковские платежи](https://github.com/raferalston/bank-payments)
 
 **Роль:** Backend-разработчик  
