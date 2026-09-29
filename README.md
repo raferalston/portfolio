@@ -1,6 +1,32 @@
-## 🚀 Проекты
+# Михаил Трубников · Python Backend Developer
 
-### 📌 [Kidkod.ru — сайт образовательного центра](https://kidkod.ru)
+Backend, API, интеграции и автоматизация. От архитектуры и бизнес-логики до релиза и эксплуатации.
+
+[Персональный сайт / CV](https://raferalston.github.io/cv/) · [Telegram](https://t.me/phukettabletop) · [GitHub](https://github.com/raferalston)
+
+## О примерах кода
+
+**Код до ИИ.** Примеры ниже написаны мной до перехода к разработке с ИИ. Это исторические работы, демонстрирующие самостоятельное проектирование, реализацию бизнес-логики и работу с Python. Они отражают стек и решения на момент создания.
+
+## Как я разрабатываю сейчас
+
+Использую **AI-oriented подход к созданию программ**: формализую задачу в спецификации, задаю границы работы coding-агентов, организую контекст и автоматические проверки. Рабочий цикл: спецификация → тесты → реализация с агентами → ревью → релиз.
+
+За архитектурные решения, проверку результата, безопасность и контроль критичных операций отвечаю лично. ИИ помогает с реализацией, навигацией по коду, тестами и документацией.
+
+**Open-source проекты в разработке.** Сейчас развиваю новые проекты с этим подходом. Часть работ ещё не завершена; оформленные кейсы и ссылки добавлю по мере готовности.
+
+## С чего начать
+
+| Пример | Что посмотреть | Стек |
+| --- | --- | --- |
+| [Bank Payments](https://github.com/raferalston/bank-payments) | Платежи и возвраты, валидация, синхронизация с банковским API | FastAPI, PostgreSQL, Celery, Docker |
+| [Task Control API](https://github.com/raferalston/tasks-app) | Асинхронные задачи, статусы выполнения, REST API | Django REST Framework, Celery, Redis, Docker |
+| [Complaint Workflow](https://github.com/raferalston/complaint_service) | Интеграции, автоматизация процессов, mock-сервисы | FastAPI, n8n, Telegram |
+
+## Проекты
+
+### [Kidkod.ru — сайт образовательного центра](https://kidkod.ru)
 **Роль:** Fullstack-разработчик  
 **Стек:** Django, Wagtail CMS, Celery + Redis, HTML/CSS/JS, API-интеграции (Moyklass, tg)
 
@@ -11,7 +37,7 @@
 
 ---
 
-### 📌 [keitaro-обертка](https://github.com/raferalston/keitaro-wrapper)
+### [keitaro-обертка](https://github.com/raferalston/keitaro-wrapper)
 
 **Роль:** Backend-разработчик  
 **Стек:** Django, Vue, Docker
@@ -20,7 +46,7 @@
 
 --- 
 
-### 📌 [Банковские платежи](https://github.com/raferalston/bank-payments)
+### [Банковские платежи](https://github.com/raferalston/bank-payments)
 
 **Роль:** Backend-разработчик  
 
@@ -30,7 +56,7 @@ REST API для работы с платежами по заказам. Подд
 
 ---
 
-### 📌 [Task Control API - Асинхронное управление задачами](https://github.com/raferalston/tasks-app)
+### [Task Control API - Асинхронное управление задачами](https://github.com/raferalston/tasks-app)
 Роль: Backend-разработчик
 Стек: Django, DRF, Celery, Redis, PostgreSQL, Docker, JWT, drf-spectacular
 
@@ -38,7 +64,7 @@ REST API для управления асинхронными задачами �
 
 ---
 
-### 📌 [Complaint Workflow System — система автоматизации обработки жалоб](https://github.com/raferalston/complaint_service)
+### [Complaint Workflow System — система автоматизации обработки жалоб](https://github.com/raferalston/complaint_service)
 Роль: Backend-разработчик
 Стек: FastAPI, SQLite (aiosqlite), httpx, n8n, Telegram Bot API, Google Sheets API
 
@@ -49,7 +75,7 @@ REST API для управления асинхронными задачами �
 
 ---
 
-### 📌 [Тестовое задание — image moderation](https://github.com/raferalston/image_moderation_api)
+### [Тестовое задание — image moderation](https://github.com/raferalston/image_moderation_api)
 **Роль:** Использование FastAPI + Sightengine для проверки изображений  
 **Стек:** Python, FastAPI
 
@@ -57,23 +83,23 @@ REST API для управления асинхронными задачами �
 
 ---
 
-### 📌 [Тестовое задание — Scrapy парсер](https://github.com/raferalston/scrapy_parser_task)
+### [Тестовое задание — Scrapy парсер](https://github.com/raferalston/scrapy_parser_task)
 **Роль:** Использование фреймворка Scrapy для получения данных о товарах  
 **Стек:** Python, scrapy
 
-Парсиннг и валидация данных полученных с помощью scrapy.
+Парсинг и валидация данных о товарах с помощью Scrapy.
 
 ---
 
-### 📌 [Тестовое задание — CSV read and aggregate data](https://github.com/raferalston/csv_reader)
-**Роль:** Python скрипт обработки csv файла и аггрегации данных внутри  
+### [Тестовое задание — CSV read and aggregate data](https://github.com/raferalston/csv_reader)
+**Роль:** Разработка Python-скрипта для чтения CSV и агрегации данных<br>
 **Стек:** Python (без pandas)
 
-Аггрегация данных из табличных данных с возможность добавления новых методов.
+Агрегация табличных данных с возможностью добавления новых методов.
 
 ---
 
-### 📌 [Тестовое задание — REST API](https://github.com/raferalston/rest-api-task-tradepoints)
+### [Тестовое задание — REST API](https://github.com/raferalston/rest-api-task-tradepoints)
 **Роль:** Backend-разработчик  
 **Стек:** Django, Django REST Framework
 
@@ -83,27 +109,27 @@ REST API для управления асинхронными задачами �
 
 ---
 
-### 📌 [Mortgage REST API — ипотечный калькулятор](https://github.com/raferalston/mortgage-rest-api-example)
+### [Mortgage REST API — ипотечный калькулятор](https://github.com/raferalston/mortgage-rest-api-example)
 **Роль:** Backend-разработчик  
 **Стек:** Django, DRF, Docker
 
 Сервис расчёта ипотечных предложений с возможностью фильтрации банков по заданным параметрам.  
-Проект развёрнут в Docker-контейнере и готов к продакшену.  
+В проекте предусмотрено развёртывание в Docker-контейнере.<br>
 Пример структурированной бизнес-логики с API-интерфейсом.
 
 ---
 
-### 📌 [Message App — отложенная отправка сообщений](https://github.com/raferalston/message-app)
+### [Message App — отложенная отправка сообщений](https://github.com/raferalston/message-app)
 **Роль:** Backend-разработчик  
 **Стек:** Django, DRF, Celery, Redis, Docker
 
 API-сервис для создания, хранения и отложенной отправки сообщений.  
 Реализована очередь задач через Celery + Redis, развёртывание в Docker.  
-Проект демонстрирует event-based архитектуру и работу с фоновыми задачами.
+Проект демонстрирует работу с очередью и отложенными фоновыми задачами.
 
 ---
 
-### 📌 [Telegram-бот для преподавателей с интеграцией CRM](https://github.com/raferalston/crm-tg-heroku-bot)
+### [Telegram-бот для преподавателей с интеграцией CRM](https://github.com/raferalston/crm-tg-heroku-bot)
 **Роль:** Разработчик бота  
 **Стек:** Python, Telegram Bot API, Heroku
 
